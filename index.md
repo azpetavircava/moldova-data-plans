@@ -58,3 +58,10 @@ layout: default
 　　*   **设备兼容再确认：** 如果你的手机是合约机或有网络锁，出国前务必解锁！eSIM手机需确认型号支持（近年iPhone/安卓旗舰基本都行）。
 
 ## 六、
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Moldova SIM 卡购买与激活指南](https://faciylike.github.io/moldova-sim-guides)
